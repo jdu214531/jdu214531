@@ -1,4 +1,14 @@
 ### Hlellow my name is Sanjar 👋
+<h2 align="center">⚡️ Stats ⚡️</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=jdu214531&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jdu214531&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <br/>
+ <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdu214531&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <!--
 **jdu214531/jdu214531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
