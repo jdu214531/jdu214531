@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hlellow my name is Sanjar 👋
 
 <!--
 **jdu214531/jdu214531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
